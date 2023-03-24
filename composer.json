@@ -1,0 +1,11 @@
+{
+    "name": "thanhnh/inspire",
+    "autoload": {
+        "psr-4": {
+            "Thanhnh\\Inspire\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
